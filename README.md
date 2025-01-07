@@ -10,7 +10,7 @@ ChatGPT e Eleven Labs e Audio Joiner.
 ## 🧐 Processo de Criação
 1. Primeiramente, inseri um prompt no CHATGPT com a intenção de buscar sugestões para a criação de um PodCast sobre jogos e saúde, com foco na regulamentação das bets.
 
-PROMPT: você é um roteirista de podcast e vamos criar um podcast focado em jogo responsável, dando conselhos sobre como jogar de forma responsável e os cuidados necessários com  a chegada das bets.
+PROMPT: você é um roteirista de podcast e vamos criar um podcast focado em jogo responsável, dando conselhos sobre como jogar de forma saudável e os cuidados necessários com  a chegada das bets.
 O resultado foi ótimo, recebi 5 dicas muito importantes conforme texto do item Resultados logo abaixo.
 
 2. Para o nome do meu Podcast, inseri o prompt complementar ao resultado já gerado anteriormente:
